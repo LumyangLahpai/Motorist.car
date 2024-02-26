@@ -1,0 +1,58 @@
+body {
+    font: 18px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #ffffff;
+  }
+  p {font-size: 14px;}
+  
+  .margin {margin-bottom: 45px;}
+  .old-bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  
+   .bg-1 { 
+    background-color: #eee; /* Green */
+    color: #0080c0;
+  }
+  
+  
+  .bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color:#bf0000;
+  }
+  .bg-4 { 
+    background-color: #fff;
+    color: #2f2f2f; /* Black Gray */
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 20px;
+    letter-spacing: 3px;
+  }
+  .navbar-nav  li a:hover {
+    color: #bf0000;
+  }
+  .alert{
+  padding:5px;
+  }
+  .jumbotron p{
+  	color:#0080c0;
+  }
+    .jumbotron h2,h3{
+    color: #2f2f2f;
+    }
+ 
